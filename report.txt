@@ -1,0 +1,71 @@
+----------------------- Relatorio Final -----------------------
+
+ -> Simulacao da propagacao de Virus
+
+Numero de espacos: 4
+Numero de pessoas: 20
+
+---------------------------------------------------------------
+ID: 1	Capacidade: 50	Ocupacao: 10
+Pessoas na sala: 
+Nome: MarcoMarquesAAA	Idade: 40	Estado: I	
+Nome: Olivia1	Idade: 12	Estado: S	
+Nome: SandraS	Idade: 56	Estado: D	Tempo: 4
+Nome: HugoA	Idade: 20	Estado: D	Tempo: 6
+Nome: HugoB	Idade: 25	Estado: S	
+Nome: HugoC	Idade: 14	Estado: S	
+Nome: Carlos1	Idade: 20	Estado: D	Tempo: 6
+Nome: SandraMotaA1	Idade: 24	Estado: S	
+Nome: PedroPedra	Idade: 27	Estado: S	
+Nome: DianaD	Idade: 89	Estado: S	
+
+Numero de IMUNES: 1	Taxa de IMUNES: 10.00%
+Numero de SAUDAVEIS: 6	Taxa de SAUDAVEIS: 60.00%
+Numero de DOENTES: 3	Taxa de DOENTES: 30.00%
+
+
+ID: 2	Capacidade: 50	Ocupacao: 4
+Pessoas na sala: 
+Nome: SofiaA	Idade: 23	Estado: S	
+Nome: Tomas111	Idade: 12	Estado: I	
+Nome: SamuelSimoes	Idade: 56	Estado: D	Tempo: 4
+Nome: PauloAlves123	Idade: 34	Estado: D	Tempo: 7
+
+Numero de IMUNES: 1	Taxa de IMUNES: 25.00%
+Numero de SAUDAVEIS: 1	Taxa de SAUDAVEIS: 25.00%
+Numero de DOENTES: 2	Taxa de DOENTES: 50.00%
+
+
+ID: 3	Capacidade: 50	Ocupacao: 3
+Pessoas na sala: 
+Nome: Zulmira2A	Idade: 17	Estado: S	
+Nome: CarlaCardoso	Idade: 34	Estado: S	
+Nome: TobiasF	Idade: 98	Estado: S	
+
+Numero de IMUNES: 0	Taxa de IMUNES: 0.00%
+Numero de SAUDAVEIS: 3	Taxa de SAUDAVEIS: 100.00%
+Numero de DOENTES: 0	Taxa de DOENTES: 0.00%
+
+
+ID: 4	Capacidade: 50	Ocupacao: 3
+Pessoas na sala: 
+Nome: PauloPires1	Idade: 23	Estado: S	
+Nome: PauloPires2	Idade: 67	Estado: S	
+Nome: LeonardoL	Idade: 10	Estado: S	
+
+Numero de IMUNES: 0	Taxa de IMUNES: 0.00%
+Numero de SAUDAVEIS: 3	Taxa de SAUDAVEIS: 100.00%
+Numero de DOENTES: 0	Taxa de DOENTES: 0.00%
+
+
+ - TAXA GLOBAL DO ESPACO - 
+Numero de pessoas no espaco: 20
+Numero de IMUNES: 2	Taxa de IMUNES: 10.00%
+Numero de SAUDAVEIS: 13	Taxa de SAUDAVEIS: 65.00%
+Numero de DOENTES: 5	Taxa de DOENTES: 25.00%
+
+---------------------------------------------------------------
+
+Trabalho elaborado por: Vasco Daniel Matos Pereira  .:  2019134744
+ -> Simulacao da propagacao de Virus
+

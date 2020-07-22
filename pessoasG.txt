@@ -1,0 +1,100 @@
+Diogo 53 D 4
+Diogo1 37 S
+Diogo2 58 S
+Diogo3 21 S
+Diogo4 45 S
+Diogo5 34 I
+Diogo6 34 S
+Diogo7 42 S
+Diogo8 23 S
+Diogo9 24 S
+Joao 34 S
+Joao1 51 S
+Joao2 87 S
+Joao3 95 S
+Joao4 21 S
+Joao5 25 S
+Joao6 32 S
+Joao7 41 S
+Joao8 10 S
+Joao9 23 S
+Andre 23 S
+Andre1 42 S
+Andre2 45 S
+Andre3 94 S
+Andre4 52 S
+Andre5 24 S
+Andre6 25 S
+Andre7 23 S
+Andre8 23 D 2
+Andre9 84 S
+Vasco 52 S
+Vasco1 42 S
+Vasco2 32 S
+Vasco3 42 S
+Vasco4 52 S
+Vasco5 24 S
+Vasco6 82 S
+Vasco7 23 S
+Vasco8 24 S
+Vasco9 88 S
+Ana 42 S
+Ana1 52 S
+Ana2 52 S
+Ana3 88 S 
+Ana4 88 D 6
+Ana5 23 I
+Ana6 24 I
+Ana7 76 S
+Ana8 33 S
+Ana9 35 I
+Carolina 25 S
+Carolina1 45 D 2
+Carolina2 32 S
+Carolina3 52 S
+Carolina4 52 I
+Carolina5 23 S
+Carolina6 23 D 2
+Carolina7 34 S
+Carolina8 24 S
+Carolina9 23 I
+Beatriz 25 D 5
+Beatriz1 23 S
+Beatriz2 23 S
+Beatriz3 23 S
+Beatriz4 23 S
+Beatriz5 23 S
+Beatriz6 23 S
+Beatriz7 23 S
+Beatriz8 23 S
+Beatriz9 23 S
+Alface 52 D 3
+Alface1 23 I
+Alface2 45 D 1
+Alface3 23 I
+Alface4 23 I
+Alface5 23 I
+Alface6 23 I
+Alface7 23 I
+Alface8 23 I
+Alface9 23 I
+Joana 23 D 3
+Joana1 32 D 3
+Joana2 77 D 1
+Joana3 88 D 4
+Joana4 23 D 1
+Joana5 27 D 3
+Joana6 27 D 1
+Joana7 27 D 2
+Joana8 27 D 1
+Joana9 27 D 2
+Daniel 23 S
+Daniel1 57 D 4
+Daniel2 53 S
+Daniel3 53 S
+Daniel4 53 S
+Daniel5 53 S
+Daniel6 53 S
+Daniel7 53 S
+Daniel8 53 S
+Daniel9 53 S
