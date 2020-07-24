@@ -18,8 +18,8 @@ All the iteractions with the user in the command-line are in Portuguese.
 In this project I got 99,5% out of 100%
 
 ## Guide
-As well as all iteractions are in portuguese, the guides to the work are in the same language.
-[Fist Guide](01 - Enunciado_TP_2019-20.pdf)
+As well as all iteractions are in portuguese, the guides to the work are in the same language.\
+[Fist Guide](01 - Enunciado_TP_2019-20.pdf)\
 [Extra Guide](02 - Enunciado_Extra.pdf)
 
 ## Usage
