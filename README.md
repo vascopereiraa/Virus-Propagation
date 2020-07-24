@@ -18,11 +18,13 @@ All the iteractions with the user in the command-line are in Portuguese.
 In this project I got 99,5% out of 100%
 
 ## Guide
-
+As well as all iteractions are in portuguese, the guides to the work are in the same language.
+[Fist Guide](01 - Enunciado_TP_2019-20.pdf)
+[Extra Guide](02 - Enunciado_Extra.pdf)
 
 ## Usage
 In order to run the program as it is I recommend to use [Apache NetBeans](https://netbeans.apache.org/download/nb120/nb120.html) with the C/C++ extension
 
 ## Files
 In the repository, along with the source code I have text files and binary files, them are used to run the code.\
-The population to fill the linked list is saved in text files and the spaces are stored in the binary files.
+The population to fill the linked list is saved in text files and the spaces are stored in the binary files.\
