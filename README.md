@@ -23,7 +23,8 @@ As well as all iteractions are in portuguese, the guides to the work are in the 
 [Extra Guide](Enunciado_Extra.pdf)
 
 ## Usage
-In order to run the program as it is I recommend to use [Apache NetBeans](https://netbeans.apache.org/download/nb120/nb120.html) with the C/C++ extension
+In order to run the program as it is I recommend to use [Apache NetBeans](https://netbeans.apache.org/download/nb120/nb120.html) with the C/C++ extension.\
+You also don't need any extension or specific library to run the project, only contains simple C source code.
 
 ## Files
 In the repository, along with the source code I have text files and binary files, them are used to run the code.\
