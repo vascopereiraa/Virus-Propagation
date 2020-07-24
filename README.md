@@ -11,6 +11,8 @@ The main purpose was:
   - Add a new sick person to the simulation
   - Transfer people between linked spaces
   - Recover the last 3 iterations in the simulation
+  
+All the iteractions with the user in the command-line are in Portuguese.
 
 ## Avaluation
 In this project I got 99,5% out of 100%
@@ -20,3 +22,7 @@ In this project I got 99,5% out of 100%
 
 ## Usage
 In order to run the program as it is I recommend to use [Apache NetBeans](https://netbeans.apache.org/download/nb120/nb120.html) with the C/C++ extension
+
+## Files
+In the repository, along with the source code I have text files and binary files, them are used to run the code.\
+The population to fill the linked list is saved in text files and the spaces are stored in the binary files.
