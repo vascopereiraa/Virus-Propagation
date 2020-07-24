@@ -19,8 +19,8 @@ In this project I got 99,5% out of 100%
 
 ## Guide
 As well as all iteractions are in portuguese, the guides to the work are in the same language.\
-[Fist Guide](01 - Enunciado_TP_2019-20.pdf)\
-[Extra Guide](02 - Enunciado_Extra.pdf)
+[Fist Guide](Enunciado_Extra.pdf)\
+[Extra Guide](Enunciado_Extra.pdf)
 
 ## Usage
 In order to run the program as it is I recommend to use [Apache NetBeans](https://netbeans.apache.org/download/nb120/nb120.html) with the C/C++ extension
