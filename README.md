@@ -15,7 +15,7 @@ The main purpose was:
 All the iteractions with the user in the command-line are in Portuguese.
 
 ## Avaluation
-In this project I got 99,5% out of 100%
+In this project I got 99% out of 100%
 
 ## Guide
 As well as all iteractions are in portuguese, the guides to the work are in the same language.\
